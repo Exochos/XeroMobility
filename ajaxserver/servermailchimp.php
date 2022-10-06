@@ -2,7 +2,7 @@
 $response = array();
 /*
  IMPORTANT : 
-  - Change mailcimp API Key and List ID by your own
+  - Change mailchimp API Key and List ID by your own
   - Change message from user email recipient by your own
 */
 /*
