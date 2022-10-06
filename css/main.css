@@ -5643,7 +5643,7 @@ p {
 .rotatingText {
   font-family: "Barlow", sans-serif;
   font-style: italic;
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   text-align: center;
   color: rgb(255, 255, 255);
 }
@@ -5652,10 +5652,10 @@ p {
   margin: 0 auto;
   bottom: 20px;
   font-family: "Barlow", sans-serif;
-  font-size: 1.4em;
+  font-size: 1.2em;
   color: rgb(255, 255, 255);
   font-style: normal;
-  font-weight: 700;
+  font-weight: 400;
   left: 0;
   margin-left:6em;
   margin-right:6em;
