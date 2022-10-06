@@ -49,7 +49,7 @@ http://miradontsoa.com
 @font-face {
   font-family: "barlow-thin";
   font-weight: normal;
-  src: url("barlow-thin.otf") format("opentype");
+  src: url("Barlow-Thin.ttf") format("truetype");
 }
 .oj {
   color: rgb(254, 120, 50);
@@ -5652,12 +5652,14 @@ p {
   margin: 0 auto;
   bottom: 20px;
   font-family: "Barlow", sans-serif;
-  font-size: 1.6rem;
+  font-size: 1.4rem;
   color: rgb(255, 255, 255);
   font-style: normal;
   font-weight: 700;
   left: 0;
-  margin:3em;
+  margin-left:6em;
+  margin-right:6em;
+  margin-bottom: 2.0em;
   opacity: 0;
   position: absolute;
   right: 0;
