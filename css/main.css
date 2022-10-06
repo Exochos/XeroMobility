@@ -2671,7 +2671,7 @@ textarea {
       visibility: visible; }
     @media (max-width: 768px-1px) {
       .page-header-alpha .all-menu-wrapper .navbar-nav .nav-item {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
         opacity: 1; }
         .page-header-alpha .all-menu-wrapper .navbar-nav .nav-item a {
           opacity: 1; }
