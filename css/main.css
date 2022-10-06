@@ -46,6 +46,11 @@ http://miradontsoa.com
   font-weight: bold;
   src: url("acherus_militant_1_-_bold.otf") format("opentype");
 }
+@font-face {
+  font-family: "barlow-thin";
+  font-weight: normal;
+  src: url("barlow-thin.otf") format("opentype");
+}
 .oj {
   color: rgb(254, 120, 50);
 }
