@@ -5643,17 +5643,17 @@ p {
 .rotatingText {
   font-family: "Barlow", sans-serif;
   font-style: italic;
-  font-size: 1.2rem;
+  font-size: 1.2em;
   text-align: center;
-  color: rgb(255, 255, 255);
+  color: #ffffff;
 }
 .rotatingText-adjective {
   position: absolute;
   margin: 0 auto;
   bottom: 20px;
   font-family: "Barlow", sans-serif;
-  font-size: 1.2em;
-  color: rgb(255, 255, 255);
+  font-size: 1em;
+  color: #ffffff;
   font-style: normal;
   font-weight: 400;
   left: 0;
